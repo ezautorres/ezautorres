@@ -1,5 +1,7 @@
 ## 👋 About Me
 
+📄 [Download my CV (PDF)](https://github.com/ezautorres/ezautorres/raw/main/CV.pdf)
+
 I'm a graduate in Applied Mathematics (BSc + MSc), with my Master's degree from CIMAT (Centro de Investigación en Matemáticas). I have solid training and hands-on experience in Natural Language Processing, Machine Learning, and Data Science. My background blends mathematical rigor with practical modeling skills, and I’ve worked on projects ranging from deep learning for text classification to scientific computing and Bayesian inference.
 
 I enjoy tackling real-world problems using deep learning, probabilistic modeling, and modern NLP techniques. I'm also exploring applications of Large Language Models (LLMs), multimodal learning, and computer vision.
