@@ -1,9 +1,8 @@
 ## 👋 About Me
 
-I'm a graduate in Applied Mathematics (BSc + MSc), with my Master's degree from CIMAT (Centro de Investigación en Matemáticas). I have solid training and hands-on experience in Natural Language Processing, Machine Learning, and Data Science. My background blends mathematical rigor with practical modeling skills, and I’ve worked on projects ranging from deep learning for text classification to scientific computing and Bayesian inference. I enjoy tackling real-world problems using deep learning, probabilistic modeling, and modern NLP techniques. I'm also exploring applications of Large Language Models (LLMs), multimodal learning, and computer vision, particularly in scientific and research-driven contexts.
+I'm a graduate in Applied Mathematics (BSc + MSc), with my Master's degree from CIMAT (Centro de Investigación en Matemáticas). I have solid training and hands-on experience in Natural Language Processing, Machine Learning, and Data Science. My background blends mathematical rigor with practical modeling skills, and I’ve worked on projects ranging from deep learning for text classification to scientific computing and Bayesian inference. I enjoy tackling real-world problems using deep learning, probabilistic modeling, and modern NLP techniques. I'm also exploring applications of Large Language Models (LLMs), multimodal learning, and computer vision.
 
 Always open to collaborations in interpretable AI, text modeling, or scientific ML.
-
 
 🔍 Focused on: Natural Language Processing · Large Language Models · Deep Learning · Artificial Intelligence · Computer Vision · Scientific Machine Learning · Mathematical Modeling · Multitask Learning · Probabilistic Inference
 
@@ -80,7 +79,7 @@ Explorations in transformers, LoRA, diffusion models, and RNNs for time series f
 
 ## 🎯 Currently Working On
 
-- 📚 Thesis: Bayesian Inverse Problems with PINNs + MCMC (t-walk)  
+- 📚 Master Thesis: Bayesian Inverse Problems with PINNs + MCMC (t-walk)  
 - ⚙️ Modular PINN framework for PDE solving in scientific applications  
 
 ---
