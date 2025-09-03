@@ -95,7 +95,7 @@ Always open to collaborations in interpretable AI, text modeling, or scientific 
 ## 🚀 Featured Projects
 
 <details>
-<summary>🔬 <strong>PINNs Framework (in progress)</strong></summary>
+<summary>🔬 <strong>PINNs Framework</strong></summary>
 
 <br>
 
@@ -153,8 +153,7 @@ Explorations in transformers, LoRA, diffusion models, and RNNs for time series f
 
 ## 🎯 Currently Working On
 
-- 📚 Master Thesis: Bayesian Inverse Problems with PINNs + MCMC (t-walk)  
-- ⚙️ Modular PINN framework for PDE solving in scientific applications  
+- ⚙️ Modular PINN framework for PDE solving in scientific applications ([repo](https://github.com/ezautorres/Physics-Informed-Neural-Networks-Master-Thesis-CIMAT))  
 
 ---
 
