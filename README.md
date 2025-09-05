@@ -123,7 +123,7 @@ Implements a multitask pipeline to predict gender and nationality from Spanish-l
 
 End-to-end solution for **insurance fraud detection** using WOE transformation and logistic regression scorecards. Includes preprocessing, model training, and a **FastAPI service** for real-time scoring with interpretable results.
 
-🔗 [Repository](https://github.com/ezautorres/Fraud-Detection-API)
+🔗 [Repository](https://github.com/ezautorres/Fraud-Detection-End-to-End)
 </details>
 
 <details>
