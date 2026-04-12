@@ -2,13 +2,13 @@
 
 📄 [Download my CV (PDF)](https://github.com/ezautorres/ezautorres/raw/main/CV.pdf)
 
-I'm a graduate in Applied Mathematics (BSc + MSc), with my Master's degree from CIMAT (Centro de Investigación en Matemáticas). I have solid training and hands-on experience in Natural Language Processing, Machine Learning, and Data Science. My background blends mathematical rigor with practical modeling skills, and I’ve worked on projects ranging from deep learning for text classification to scientific computing and Bayesian inference.
+I am a Data Scientist Consultant with a strong background in Applied Mathematics (BSc + MSc) from CIMAT (Centro de Investigación en Matemáticas). I specialize in Natural Language Processing, Machine Learning, and Data Science, combining mathematical rigor with practical modeling expertise to deliver data-driven solutions for real-world problems. My experience spans deep learning for text classification, scientific computing, and Bayesian inference.
 
-I enjoy tackling real-world problems using deep learning, probabilistic modeling, and modern NLP techniques. I'm also exploring applications of Large Language Models (LLMs), multimodal learning, and computer vision.
+I enjoy tackling real-world problems using machine and deep learning, probabilistic modeling, and modern NLP techniques. I'm also exploring applications of IA, Large Language Models (LLMs), multimodal learning, and computer vision.
 
 Always open to collaborations in interpretable AI, text modeling, or scientific ML.
 
-🔍 Focused on: Natural Language Processing · Large Language Models · Deep Learning · Artificial Intelligence · Computer Vision · Scientific Machine Learning · Mathematical Modeling · Multitask Learning · Probabilistic Inference
+🔍 Focused on: AI Agents, Natural Language Processing · Large Language Models · Deep Learning · Computer Vision · Scientific Machine Learning · Mathematical Modeling · Multitask Learning · Probabilistic Inference
 
 ---
 
@@ -23,10 +23,11 @@ Always open to collaborations in interpretable AI, text modeling, or scientific 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)  
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333?style=flat&logo=scikitlearn)  
+![PySpark](https://img.shields.io/badge/-PySpark-333?style=flat&logo=apachespark)  
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)  
 ![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)  
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333?style=flat&logo=huggingface)  
 ![Transformers](https://img.shields.io/badge/-Transformers-333?style=flat&logo=transformers)  
-![LoRA](https://img.shields.io/badge/-LoRA-333?style=flat)  
 ![spaCy](https://img.shields.io/badge/-spaCy-333?style=flat&logo=spacy)  
 ![fastText](https://img.shields.io/badge/-fastText-333?style=flat)  
 ![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-333?style=flat)
@@ -40,6 +41,7 @@ Always open to collaborations in interpretable AI, text modeling, or scientific 
 
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)  
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)  
+![PySpark](https://img.shields.io/badge/-PySpark-333?style=flat&logo=apachespark)  
 ![SciPy](https://img.shields.io/badge/-SciPy-333?style=flat&logo=scipy)  
 ![SymPy](https://img.shields.io/badge/-SymPy-333?style=flat&logo=sympy)  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)  
@@ -81,6 +83,8 @@ Always open to collaborations in interpretable AI, text modeling, or scientific 
 
 <br>
 
+![Amazon Web Services](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)  
+![Strands Agents](https://img.shields.io/badge/-Strands%20Agents-333?style=flat)  
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)  
@@ -95,7 +99,7 @@ Always open to collaborations in interpretable AI, text modeling, or scientific 
 ## 🚀 Featured Projects
 
 <details>
-<summary>🔬 <strong>PINNs Framework</strong></summary>
+<summary>🔬 <strong>Modular PINN framework for PDE solving in scientific applications</strong></summary>
 
 <br>
 
@@ -163,7 +167,7 @@ Explorations in transformers, LoRA, diffusion models, and RNNs for time series f
 
 ## 🎯 Currently Working On
 
-- ⚙️ Modular PINN framework for PDE solving in scientific applications ([repo](https://github.com/ezautorres/Physics-Informed-Neural-Networks-Master-Thesis-CIMAT))  
+- ⚙️ Competition project in detecting and identifying mental disorders in social media streams. ([repo](https://github.com/ezautorres/MentalRiskES-2026))  
 
 ---
 
